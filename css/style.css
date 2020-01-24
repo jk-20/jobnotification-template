@@ -1,6 +1,7 @@
 /* #d9534f;danger
 #f0ad4e;warning
-#5cb85c success */
+#5cb85c success 
+#0275d8 primary*/
 
 body{
     text-transform: capitalize;
@@ -22,7 +23,7 @@ body{
     
 }
 .navbar{
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
 .trend-header{
     margin-top: 20px;
@@ -77,4 +78,36 @@ body{
   .jobs p{
     font-size: 1.4rem;
   }
+  .free-resource{
+    text-align: center;
+    padding: 20px;
+    margin: 2px;
+    border: 1px solid black;
+  }
+  .free-div{
+   border: 1px solid white;
+   margin: 2px;
+    padding: 10px;
+  }
+  .free-div a{
+    margin: 2px;
+    padding: 10px;
+   }
   
+  .free-div a:hover{
+    color: white;
+    background-color: #042c50;
+   }
+   
+   .social {
+     
+    font-size: 2rem;
+  }
+ 
+   .social a{
+     
+     color:white;
+   }
+  footer{
+    color: white;
+  }
