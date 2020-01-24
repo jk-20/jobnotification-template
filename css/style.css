@@ -1,0 +1,80 @@
+/* #d9534f;danger
+#f0ad4e;warning
+#5cb85c success */
+
+body{
+    text-transform: capitalize;
+
+}
+.main-sub{
+    font-size: 1rem;
+}
+.sub-head{
+    font-size: 1.5rem;
+
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.start-head{
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(200, 200, 238);
+    
+}
+.navbar{
+    font-size: 1.5rem;
+}
+.trend-header{
+    margin-top: 20px;
+    text-align: center;
+}
+.trending-job{
+    margin: 2rem;
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+    
+    
+}
+.trending-job .trend-job1{
+    border: 1px solid white;
+  padding:0.5rem;
+}
+.trending-job .trend-job2{
+    border: 1px solid white;
+    padding:0.5rem;
+  }
+  .main-section{
+      
+      text-align: center;
+     
+    
+     
+  }
+  .main-section .main-heading{
+    background-color:#0275d8;
+    color: white;
+    font-size: 2rem;
+    
+  }
+  .latest-job{
+  
+
+    border: 2px solid black;
+     
+  }
+  .admit-card{
+  
+    border: 2px solid black;
+     
+  }
+  .result{
+   
+    
+    border: 2px solid black;
+     
+  }
+  .jobs p{
+    font-size: 1.4rem;
+  }
+  
